@@ -1,2 +1,6 @@
 asfd  asfasdfasf asdfasdfasdfasdfasfdasdf
+<<<<<<< HEAD
 asdfasdfddd
+=======
+asdfasdfddd
+>>>>>>> parent of addf9f0... Update test.txt.txt
